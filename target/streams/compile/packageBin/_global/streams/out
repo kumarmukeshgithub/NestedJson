@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/sampledemoproject_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/etl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/etl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/etl/ReadAwardJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/etl/ReadAwardJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/etl/ProcessAwardJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/etl/ProcessAwardJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/etl/PrintAwardJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/etl/PrintAwardJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/etl/ProcessAwardJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/etl/ProcessAwardJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/etl/ReadAwardJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/etl/ReadAwardJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/etl/PrintAwardJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/etl/PrintAwardJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/schema[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/schema[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/schema/SchemaDefinition$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/schema/SchemaDefinition$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/schema/SchemaDefinition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/schema/SchemaDefinition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/abcd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/abcd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/mains[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/mains[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/mains/MainProgram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/mains/MainProgram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mukesh/sample/mains/MainProgram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/SampleDemoProject/target/scala-2.12/classes/com/mukesh/sample/mains/MainProgram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
